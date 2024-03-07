@@ -1,1 +1,1 @@
-# A website to check local weather.
+# An website to check local weather.
