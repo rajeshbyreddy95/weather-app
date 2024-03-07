@@ -1,1 +1,1 @@
-# weather-app
+# A website to check local weather.
