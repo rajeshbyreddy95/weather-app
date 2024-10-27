@@ -1,0 +1,23 @@
+/* src/styles/App.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #282c34;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+  }
+  
+  input {
+    font-size: 1rem;
+    padding: 8px;
+  }
+  
+  button {
+    font-size: 1rem;
+    padding: 8px;
+  }
+  
